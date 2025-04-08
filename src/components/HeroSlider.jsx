@@ -8,14 +8,14 @@ const HeroSlider = () => {
 
   const slides = [
     {
-      image: "/assets/1stimage.png",
+      image: "/src/assets/first -image.png",
       title: "Natural Products for Your Wellbeing",
       description: "Discover our range of organic and natural products",
       buttonText: "Shop Now",
       buttonLink: "/shop",
     },
     {
-      image: "/assets/1stimage.png",
+      image: "/src/assets/first -image.png",
       title: "Pure & Organic Ingredients",
       description: "Carefully sourced ingredients for your health",
       buttonText: "Explore",
